@@ -38,6 +38,10 @@ To get started with the project, please follow the instructions below:
    npm start
    ```
 
+## Live Link
+
+The live version of the project can be found [here](https://iot-aquaponic.netlify.app/).
+
 ## Contributing
 
 We welcome contributions from everyone! If you have ideas for improvements or new features, please feel free to submit a pull request or open an issue.
